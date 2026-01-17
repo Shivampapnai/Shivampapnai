@@ -4,10 +4,9 @@
 Email Me 👉 ✉️ **shivampapnai@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **In currently working on:** Healthcare Data Analysis Project
-- 🌱 **I’m currently learning:** Python 
+- 🌱 **Soon going to start learning:** Python 
 - 📫 **How to reach me:** shivampapna@gmail.com
-
-- ⚡ **Fun fact:** I Love 
+- ⚡ **Fun fact:** I Love to work on new Technology
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-papnai/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivampapna@gmail.com) 
 
