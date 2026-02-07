@@ -17,7 +17,7 @@ Email Me 👉 ✉️ **shivampapnai@gmail.com** For Collaboration/Project or Any
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Data Analyst:
+# 💻 Analyst:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shivampapnai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
