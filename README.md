@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **shivampapnai@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **In currently working on:** Healthcare Data Analysis Project
+- 🔭 **In currently working on:** Healthcare Data Project
 - 🌱 **Currently learning:** Statistics
-- 🌱 **Soon going to start learning:** Python 
+- 🌱 **Soon going to start learning:** SAP
 - 📫 **How to reach me:** shivampapna@gmail.com
 - ⚡ **Fun fact:** I Love to work on new Technology
 ## 🌐 Socials:
